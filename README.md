@@ -1,4 +1,10 @@
 # PDF-TO-XML
+Before running the code, checkto  install the,
+  $ pip install PyMuPDF
+  $ pip install flet
+  $ pip install spacy
+  $ python -m spacy download en_core_web_sm
+
 Ao app
 Run the app
 uv
